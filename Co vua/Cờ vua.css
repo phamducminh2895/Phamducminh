@@ -1,0 +1,26 @@
+body{
+    margin: 0
+    }
+.chess{
+    width: 800 px;
+    margin: 0 auto;
+    }
+#table td,th{
+    width: 40px;
+    height:40px;
+    text-align: center;
+}
+.chess table td{
+    border: 1px solid black;
+    }
+.chess table{
+    border-collapse: collapse;
+    }
+.white{background-color:white}
+.black{background-color:black}
+th:nth-child(even) {background-color: #ffb300;}
+th:nth-child(odd) {background-color:#ffb300;}
+th {
+    background-color: #ffb300;
+    color: black;
+    }
