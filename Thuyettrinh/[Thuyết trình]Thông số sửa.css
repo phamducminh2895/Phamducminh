@@ -1,0 +1,56 @@
+h1{
+    text-align: left;
+    width: 50%;
+}
+h2{
+    text-align: justify;
+    width: 30%;
+}
+h3{
+    text-align: center;
+    width: 50%;
+}
+h4{
+    text-align: right;
+    width: 50%
+}
+p {
+    font-size: 32px;
+}
+#underline { text-decoration: underline }
+#overline { text-decoration: overline }
+#line-through { text-decoration: line-through }
+#mix {
+    text-decoration: underline overline line-through;
+}
+
+#text {
+    background: blue;
+    width: 710px;
+    color: white;
+}
+
+#text p {
+    text-indent: 15%;
+  }
+
+#title {
+    text-shadow: blue 2px 3px 4px;
+    color: black;
+}
+#multi-shadow {
+    text-shadow: red 8px -4px 4px, orange -10px 5px 2px;
+    color: black;
+}
+
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
+
+p.capitalize {
+    text-transform: capitalize;
+}

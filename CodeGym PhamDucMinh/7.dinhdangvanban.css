@@ -1,0 +1,21 @@
+body{
+    width: 650px;
+    text-align: justify;
+font-family: Arial;
+}
+p {
+    font-size: 15px;
+    text-indent: 30px;
+    line-height: 1.5;
+}
+h {
+    font-weight: bold;
+}
+
+cyan{
+    color:dodgerblue;
+}
+
+blue{
+    color:darkblue;
+}
